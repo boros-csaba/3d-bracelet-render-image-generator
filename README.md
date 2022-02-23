@@ -1,1 +1,1 @@
-# 3d Bracelet Render Image Generator
+# 3D Bracelet Render Image Generator
