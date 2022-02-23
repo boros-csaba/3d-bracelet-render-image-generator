@@ -1,0 +1,993 @@
+[
+	{
+		"id": 1, 
+		"idString": "zold-szezamko", 
+		"width": 1, 
+		"type": "complex",
+		"object": "ZoldSzezamko",
+		"frequency": 1,
+		"canRotate": "True"
+	},
+	{
+		"id": 4, 
+		"idString": "turkiz-regalit", 
+		"width": 1,
+		"type": "complex",
+		"object": "TurkizRegalit1",
+		"scale": 1,
+		"imageId": 1,
+		"frequency": 3,
+		"canRotate": "True"
+	},
+	{
+		"id": 4, 
+		"idString": "turkiz-regalit", 
+		"width": 2,
+		"type": "complex",
+		"object": "TurkizRegalit2",
+		"scale": 1,
+		"imageId": 2,
+		"frequency": 1,
+		"canRotate": "True"
+	},
+	{
+		"id": 4, 
+		"idString": "turkiz-regalit", 
+		"width": 2,
+		"type": "complex",
+		"object": "TurkizRegalit3",
+		"scale": 1,
+		"imageId": 3,
+		"frequency": 1,
+		"canRotate": "True"
+	},
+	{
+		"id": 4, 
+		"idString": "turkiz-regalit", 
+		"width": 2,
+		"type": "complex",
+		"object": "TurkizRegalit4",
+		"scale": 1,
+		"imageId": 4,
+		"frequency": 1,
+		"canRotate": "True"
+	},
+	{
+		"id": 4, 
+		"idString": "turkiz-regalit", 
+		"width": 2,
+		"type": "complex",
+		"object": "TurkizRegalit5",
+		"scale": 1,
+		"imageId": 5,
+		"frequency": 1,
+		"canRotate": "True"
+	},
+	{
+		"id": 4, 
+		"idString": "turkiz-regalit", 
+		"width": 2,
+		"type": "complex",
+		"object": "TurkizRegalit6",
+		"scale": 1,
+		"imageId": 6,
+		"frequency": 3,
+		"canRotate": "True"
+	},
+	{
+		"id": 5, 
+		"idString": "kek-regalit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45
+	},
+	{
+		"id": 6, 
+		"idString": "thulit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45
+	},
+	{
+		"id": 9, 
+		"idString": "matt-szurke-kepjaspis", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.35,
+		"imageId": 1,
+		"frequency": 2
+	},
+	{
+		"id": 9, 
+		"idString": "matt-szurke-kepjaspis", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.35,
+		"imageId": 2,
+		"frequency": 2
+	},
+	{
+		"id": 9, 
+		"idString": "matt-szurke-kepjaspis", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.35,
+		"imageId": 3,
+		"frequency": 2
+	},
+	{
+		"id": 9, 
+		"idString": "matt-szurke-kepjaspis", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.35,
+		"imageId": 4,
+		"frequency": 2
+	},
+	{
+		"id": 9, 
+		"idString": "matt-szurke-kepjaspis", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.35,
+		"imageId": 5,
+		"frequency": 3
+	},
+	{
+		"id": 10, 
+		"idString": "matt-howlit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.55,
+		"imageId": 1,
+		"frequency": 3
+	},
+	{
+		"id": 10, 
+		"idString": "matt-howlit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.55,
+		"imageId": 2,
+		"frequency": 3
+	},
+	{
+		"id": 10, 
+		"idString": "matt-howlit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.55,
+		"imageId": 3,
+		"frequency": 3
+	},
+	{
+		"id": 10, 
+		"idString": "matt-howlit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.55,
+		"imageId": 4,
+		"frequency": 3
+	},
+	{
+		"id": 10, 
+		"idString": "matt-howlit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.55,
+		"imageId": 5,
+		"frequency": 3
+	},
+	{
+		"id": 10, 
+		"idString": "matt-howlit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.55,
+		"imageId": 6,
+		"frequency": 3
+	},
+	{
+		"id": 11, 
+		"idString": "lavako", 
+		"width": 1, 
+		"type": "lava",
+		"useImage": "True",
+		"roughness": 0.35,
+		"normal": "True",
+		"color": [0.03, 0.03, 0.03]
+	},
+	{
+		"id": 12, 
+		"idString": "lila-regalit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45
+	},
+	{
+		"id": 13, 
+		"idString": "rozsakvarc", 
+		"width": 1, 
+		"type": "roseQuartz"
+	},
+	{
+		"id": 14, 
+		"idString": "roppantott-hegyikristaly", 
+		"width": 1, 
+		"type": "crackleQuartz"
+	},
+	{
+		"id": 15, 
+		"idString": "zebra-jaspis", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 1,
+		"frequency": 2
+	},
+	{
+		"id": 15, 
+		"idString": "zebra-jaspis", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 2,
+		"frequency": 2
+	},
+	{
+		"id": 15, 
+		"idString": "zebra-jaspis", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 3,
+		"frequency": 2
+	},
+	{
+		"id": 15, 
+		"idString": "zebra-jaspis", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 4,
+		"frequency": 2
+	},
+	{
+		"id": 15, 
+		"idString": "zebra-jaspis", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 5,
+		"frequency": 2
+	},
+	{
+		"id": 15, 
+		"idString": "zebra-jaspis", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 6,
+		"frequency": 3
+	},
+	{
+		"id": 15, 
+		"idString": "zebra-jaspis", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 7,
+		"frequency": 2
+	},
+	{
+		"id": 16, 
+		"idString": "barna-napko", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45
+	},
+	{
+		"id": 17, 
+		"idString": "tigrisszem", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"useImage": "True",
+		"roughness": 0.25,
+		"imageId": 1,
+		"frequency": 3
+	},
+	{
+		"id": 17, 
+		"idString": "tigrisszem", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"useImage": "True",
+		"roughness": 0.25,
+		"imageId": 2,
+		"frequency": 2
+	},
+	{
+		"id": 17, 
+		"idString": "tigrisszem", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"useImage": "True",
+		"roughness": 0.25,
+		"imageId": 3,
+		"frequency": 3
+	},
+	{
+		"id": 17, 
+		"idString": "tigrisszem", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"useImage": "True",
+		"roughness": 0.25,
+		"imageId": 4,
+		"frequency": 1
+	},
+	{
+		"id": 17, 
+		"idString": "tigrisszem", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"useImage": "True",
+		"roughness": 0.25,
+		"imageId": 5,
+		"frequency": 4
+	},
+	{
+		"id": 18, 
+		"idString": "unakit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 1,
+		"frequency": 3
+	},
+	{
+		"id": 18, 
+		"idString": "unakit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 2,
+		"frequency": 2
+	},
+	{
+		"id": 18, 
+		"idString": "unakit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 3,
+		"frequency": 2
+	},
+	{
+		"id": 18, 
+		"idString": "unakit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 4,
+		"frequency": 2
+	},
+	{
+		"id": 18, 
+		"idString": "unakit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 5,
+		"frequency": 2
+	},
+	{
+		"id": 18, 
+		"idString": "unakit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 6,
+		"frequency": 2
+	},
+	{
+		"id": 19, 
+		"idString": "matt-feher-achat", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"color": [0.83, 0.83, 0.79],
+		"roughness": 1,
+		"canRotate": "True"
+	},
+	{
+		"id": 20, 
+		"idString": "szurke-hematit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"roughness": 0.15,
+		"color": [0.1, 0.1, 0.1],
+		"metalness": 1,
+		"canRotate": "True"
+	},
+	{
+		"id": 21, 
+		"idString": "malachit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45
+	},
+	{
+		"id": 23, 
+		"idString": "rozsaszin-jade", 
+		"width": 1, 
+		"type": "pinkJade"
+	},
+	{
+		"id": 24, 
+		"idString": "krem-jade", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45
+	},
+	{
+		"id": 26, 
+		"idString": "piros-halo-jaspis", 
+		"width": 1,
+		"type": "complex",
+		"object": "PirosHaloJaspis",
+		"scale": 1,
+		"imageId": 1,
+		"frequency": 3,
+		"canRotate": "True"
+	},
+	{
+		"id": 27,
+		"idString": "letter-a",
+		"width": 0.75,
+		"type": "complex",
+		"object": "LetterA",
+		"scale": 0.00093,
+		"scaleX": 0.00075,
+		"rotationY": -15,
+		"rotationZ": 90,
+		"canRotate": "True"
+	},
+	{
+		"id": 40,
+		"idString": "letter-n",
+		"width": 0.75,
+		"type": "complex",
+		"object": "LetterN",
+		"scale": 0.00093,
+		"scaleX": 0.00075,
+		"rotationY": -15,
+		"rotationZ": 90,
+		"canRotate": "True"
+	},
+	{
+		"id": 79,
+		"idString": "fekete-sziv",
+		"width": 0.75,
+		"type": "heart",
+		"color": [0.1, 0.1, 0.1],
+		"canRotate": "True"
+	},
+	{
+		"id": 82,
+		"idString": "rose-gold-korong",
+		"width": 0.19,
+		"type": "disk",
+		"color": [0.787, 0.297, 0.148],
+		"canRotate": "True"
+	},
+	{
+		"id": 84, 
+		"idString": "rose-gold-mini", 
+		"width": 0.75, 
+		"type": "bead",
+		"useImage": "False",
+		"roughness": 0.15,
+		"color": [0.787, 0.297, 0.148],
+		"metalness": 1,
+		"canRotate": "True"
+	},
+	{ 
+		"id": 86,
+		"idString": "matt-onix",	
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"color": [0, 0, 0],
+		"roughness": 0.45,
+		"canRotate": "True"
+	},
+	{
+		"id": 88, 
+		"idString": "zold-aventurin", 
+		"width": 1, 
+		"type": "greenAventurin"
+	},
+	{
+		"id": 90, 
+		"idString": "kek-jade", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45
+	},
+	{
+		"id": 91, 
+		"idString": "malyva-lavako", 
+		"width": 1, 
+		"type": "lava",
+		"useImage": "True",
+		"roughness": 0.72,
+		"normal": "True",
+		"color": [0.74, 0.5, 0.6]
+	},
+	{
+		"id": 92, 
+		"idString": "matt-barack-aventurin", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 1,
+		"frequency": 3
+	},
+	{
+		"id": 92, 
+		"idString": "matt-barack-aventurin", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 2,
+		"frequency": 2
+	},
+	{
+		"id": 92, 
+		"idString": "matt-barack-aventurin", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 3,
+		"frequency": 2
+	},
+	{
+		"id": 92, 
+		"idString": "matt-barack-aventurin", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 4,
+		"frequency": 2
+	},
+	{
+		"id": 92, 
+		"idString": "matt-barack-aventurin", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45,
+		"imageId": 5,
+		"frequency": 2
+	},
+	{
+		"id": 93, 
+		"idString": "voros-jaspis", 
+		"width": 1, 
+		"type": "redJasper"
+	},
+	{
+		"id": 99, 
+		"idString": "feher-lavako", 
+		"width": 1, 
+		"type": "lava",
+		"useImage": "True",
+		"roughness": 1,
+		"normal": "True",
+		"color": [0.78, 0.78, 0.74]
+	},
+	{
+		"id": 100, 
+		"idString": "szurke-lavako", 
+		"width": 1, 
+		"type": "lava",
+		"useImage": "True",
+		"roughness": 1,
+		"normal": "True",
+		"color": [0.33, 0.3, 0.3]
+	},
+	{
+		"id": 102, 
+		"idString": "labradorit", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45
+	},
+	{
+		"id": 105, 
+		"idString": "kek-tigrisszem", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "False",
+		"useImage": "True",
+		"roughness": 0.25
+	},
+	{
+		"id": 107, 
+		"idString": "szurke-jade", 
+		"width": 1, 
+		"type": "bead",
+		"useImage": "True",
+		"roughness": 0.45
+	},
+	{
+		"id": 109, 
+		"idString": "lapisz-lazuli", 
+		"width": 1, 
+		"type": "complex",
+		"object": "LapiszLazuli1",
+		"frequency": 2
+	},
+	{
+		"id": 109, 
+		"idString": "lapisz-lazuli", 
+		"width": 1, 
+		"type": "complex",
+		"object": "LapiszLazuli2",
+		"frequency": 2
+	},
+	{
+		"id": 109, 
+		"idString": "lapisz-lazuli", 
+		"width": 1, 
+		"type": "complex",
+		"object": "LapiszLazuli3",
+		"frequency": 2
+	},
+	{
+		"id": 109, 
+		"idString": "lapisz-lazuli", 
+		"width": 1, 
+		"type": "complex",
+		"object": "LapiszLazuli4",
+		"frequency": 1
+	},
+	{
+		"id": 111, 
+		"idString": "rodonit", 
+		"width": 1, 
+		"type": "complex",
+		"object": "Rodonit1",
+		"frequency": 2
+	},
+	{
+		"id": 111, 
+		"idString": "rodonit", 
+		"width": 1, 
+		"type": "complex",
+		"object": "Rodonit2",
+		"frequency": 1
+	},
+	{
+		"id": 111, 
+		"idString": "rodonit", 
+		"width": 2, 
+		"type": "complex",
+		"object": "Rodonit3",
+		"frequency": 1
+	},
+	{
+		"id": 111, 
+		"idString": "rodonit", 
+		"width": 1, 
+		"type": "complex",
+		"object": "Rodonit4",
+		"frequency": 1
+	},
+	{
+		"id": 111, 
+		"idString": "rodonit", 
+		"width": 1, 
+		"type": "complex",
+		"object": "Rodonit5",
+		"frequency": 1
+	},
+	{
+		"id": 114,
+		"idString": "rose-gold-sziv",
+		"width": 0.75,
+		"type": "heart",
+		"color": [0.787, 0.297, 0.148],
+		"canRotate": "True"
+	},
+	{
+		"id": 115, 
+		"idString": "csomofogo",
+		"width": 0.3, 
+		"type": "knotCover",
+		"canRotate": "True"
+	},
+	{
+		"id": 126, 
+		"idString": "matt-feher-achat-6mm", 
+		"width": 0.75, 
+		"type": "bead",
+		"useImage": "False",
+		"color": [0.83, 0.83, 0.79],
+		"roughness": 1,
+		"canRotate": "True"
+	},
+	{ 
+		"id": 127,
+		"idString": "matt-onix-6mm",	
+		"width": 0.75, 
+		"type": "bead",
+		"useImage": "False",
+		"color": [0, 0, 0],
+		"roughness": 0.45,
+		"canRotate": "True"
+	},
+	{
+		"id": 128, 
+		"idString": "szurke-hematit-6mm", 
+		"width": 0.75, 
+		"type": "bead",
+		"useImage": "False",
+		"roughness": 0.15,
+		"color": [0.1, 0.1, 0.1],
+		"metalness": 1,
+		"canRotate": "True"
+	},
+	{
+		"id": 129,
+		"idString": "fekete-korong",
+		"width": 0.19,
+		"type": "disk",
+		"color": [0.1, 0.1, 0.1],
+		"canRotate": "True"
+	},
+	{
+		"id": 130,
+		"idString": "feher-rondell",
+		"width": 0.3,
+		"type": "rondell",
+		"color": [1, 1, 1],
+		"canRotate": "True"
+	},
+	{
+		"id": 135,
+		"idString": "fekete-fenyes-lava",
+		"width": 1,
+		"type": "metalLavaBlack"
+	},
+	{
+		"id": 138, 
+		"idString": "dalmata-jaspis", 
+		"width": 1, 
+		"type": "dalmatianJasper"
+	},
+	{
+		"id": 141, 
+		"idString": "matt-barna-kepjaspis", 
+		"width": 1, 
+		"type": "complex",
+		"object": "MattBarnaKepjaspis1",
+		"imageId": 1,
+		"frequency": 1,
+		"canRotate": "True"
+	},
+	{
+		"id": 142, 
+		"idString": "amazonit", 
+		"width": 1, 
+		"type": "complex",
+		"object": "TextureAmazonite",
+		"frequency": 1,
+		"canRotate": "True"
+	},
+	{
+		"id": 143,
+		"idString": "hematit-korong-8mm",
+		"width": 0.2,
+		"type": "complex",
+		"object": "HematitHenger",
+		"scale": 0.00095,
+		"canRotate": "True"
+	},
+	{
+		"id": 144,
+		"idString": "hamsa-kez",
+		"width": 1.5,
+		"type": "hamsaHand",
+		"canRotate": "True"
+	},
+	{
+		"id": 148, 
+		"idString": "szodalit", 
+		"width": 1, 
+		"type": "complex",
+		"object": "Szodalit1",
+		"imageId": 1,
+		"frequency": 4,
+		"canRotate": "True"
+	},
+	{
+		"id": 148, 
+		"idString": "szodalit", 
+		"width": 1, 
+		"type": "complex",
+		"object": "Szodalit2",
+		"imageId": 2,
+		"frequency": 1,
+		"canRotate": "True"
+	},
+	{
+		"id": 151,
+		"idString": "vizonto",
+		"width": 0.75,
+		"type": "complex",
+		"object": "Horoscope1",
+		"scale": 0.00095,
+		"rotationX": 25,
+		"canRotate": "True"
+	},
+	{
+		"id": 152,
+		"idString": "halak",
+		"width": 0.75,
+		"type": "complex",
+		"object": "Horoscope2",
+		"scale": 0.00095,
+		"rotationX": 25,
+		"canRotate": "True"
+	},
+	{
+		"id": 153,
+		"idString": "kos",
+		"width": 0.75,
+		"type": "complex",
+		"object": "Horoscope3",
+		"scale": 0.00095,
+		"rotationX": 25,
+		"canRotate": "True"
+	},
+	{
+		"id": 154,
+		"idString": "bika",
+		"width": 0.75,
+		"type": "complex",
+		"object": "Horoscope4",
+		"scale": 0.00095,
+		"rotationX": 25,
+		"canRotate": "True"
+	},
+	{
+		"id": 155,
+		"idString": "ikrek",
+		"width": 0.75,
+		"type": "complex",
+		"object": "Horoscope5",
+		"scale": 0.00095,
+		"rotationX": 25,
+		"canRotate": "True"
+	},
+	{
+		"id": 156,
+		"idString": "rak",
+		"width": 0.75,
+		"type": "complex",
+		"object": "Horoscope6",
+		"scale": 0.00095,
+		"rotationX": 25,
+		"canRotate": "True"
+	},
+	{
+		"id": 157,
+		"idString": "oroszlan",
+		"width": 0.75,
+		"type": "complex",
+		"object": "Horoscope7",
+		"scale": 0.00095,
+		"rotationX": 25,
+		"canRotate": "True"
+	},
+	{
+		"id": 158,
+		"idString": "szuz",
+		"width": 0.75,
+		"type": "complex",
+		"object": "Horoscope8",
+		"scale": 0.00095,
+		"rotationX": 25,
+		"canRotate": "True"
+	},
+	{
+		"id": 159,
+		"idString": "merleg",
+		"width": 0.75,
+		"type": "complex",
+		"object": "Horoscope9",
+		"scale": 0.00095,
+		"rotationX": 25,
+		"canRotate": "True"
+	},
+	{
+		"id": 160,
+		"idString": "skorpio",
+		"width": 0.75,
+		"type": "complex",
+		"object": "Horoscope10",
+		"scale": 0.00095,
+		"rotationX": 25,
+		"canRotate": "True"
+	},
+	{
+		"id": 161,
+		"idString": "nyilas",
+		"width": 0.75,
+		"type": "complex",
+		"object": "Horoscope11",
+		"scale": 0.00095,
+		"rotationX": 25,
+		"canRotate": "True"
+	},
+	{
+		"id": 162,
+		"idString": "bak",
+		"width": 0.75,
+		"type": "complex",
+		"object": "Horoscope12",
+		"scale": 0.00095,
+		"rotationX": 25,
+		"canRotate": "True"
+	}
+]
